@@ -1,15 +1,16 @@
 - 👋 Hi, I’m @markmartorilopez
 
-- 👀 I’m interested in improving my knowledge about extracting valuable information from different types of datasets, mainly in Computer Vision.
- 
-      - Spoting and classifying tumors in MRIs
-      - Using Vision Transformers with OCR to translate images into text
-      - Participating in virtual reality building scenarios.
-      - At the same time, the world of Generative Adversarial Networks sounds really interesting to me!
+- 👀 I’m interested in using Machine Learning to tackle client's needs with a direct outcome, mainly in Computer Vision and NLP.
+
+- 📁 Recent Projects in 2022:
+   • Automatize the creation of on-demand chemical reactions data sets with the help of Vision Transformers and OCR in a machine-readable format.
+   • Object detection and classification benchmark with Vision Transformers, Faster-RCNN, RetinaNet, YOLOv4 and feature detectors.
+   • Creation of faces that do not exist with a Progressive-Growing GAN (Team Project).
+   • Playground for Deep Reinforcement Learning experiments, mimicking behavioural tasks in neuroscience.
       
-- 🌱 After my Masters in Data Science and as an intern, I’m currently improving the in-depth concepts of Vision Transformers in Deep Learning with IBM Research under the supervision of Dr.Daniel Probst in the Accelerated Discovery Team. Delivering a digital tool called OChemR, check the open-sourced version at my repositories.
+- 🌱 After my Masters in Data Science and as an intern, I’m currently improving the in-depth concepts of Vision Transformers in Deep Learning with IBM Research under the supervision of Dr.Teodoro Laino in the ML Accelerated Discovery Team. Delivering a digital tool called OChemR, check the open-sourced demo-version at my repositories.
       
-- 💞️ I am looking to collaborate in enthusastic projects concerning Computer Vision. I feel specially interested on AR and VR.
+- 💞️ I am looking to collaborate in enthusastic projects concerning Computer Vision and NLP. 
 
 - 📫 How to reach me: LinkedIn -> markmartorilopez
 
