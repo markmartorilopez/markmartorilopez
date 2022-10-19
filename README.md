@@ -3,7 +3,7 @@
 - 👀 I’m interested in using Machine Learning to tackle client's needs with a direct outcome, mainly in Computer Vision and NLP.
 
 - 📁 Recent Projects in 2022:
-   - Automatize the creation of on-demand chemical reactions data sets with the help of Vision Transformers and OCR in a machine-readable format.
+   - Automatize the creation of on-demand chemical reactions data sets using Vision Transformers and OCR.
    - Object detection and classification benchmark with Vision Transformers, Faster-RCNN, RetinaNet, YOLOv4 and feature detectors.
    - Creation of faces that do not exist with a Progressive-Growing GAN (Team Project).
    - Playground for Deep Reinforcement Learning experiments, mimicking behavioural tasks in neuroscience.
