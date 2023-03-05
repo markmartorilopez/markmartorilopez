@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markmartorilopez
 
-- 👀 I’m interested in using Machine Learning to tackle client's needs with a direct outcome, mainly in Computer Vision and NLP.
+- 👀 I’m interested in how Machine Learning tackles client's needs with a direct outcome, mainly in Computer Vision and NLP.
 
 - 📁 Recent Projects in 2022:
    - Automatize the creation of on-demand chemical reactions data sets using Vision Transformers and OCR.
