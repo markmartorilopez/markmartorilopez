@@ -8,7 +8,7 @@
    - Creation of faces that do not exist with a Progressive-Growing GAN (Team Project).
    - Playground for Deep Reinforcement Learning experiments, mimicking behavioural tasks in neuroscience.
       
-- 🌱 As a Scientific Researcher I’m currently improving the in-depth concepts of Vision Transformers in Deep Learning with IBM Research under the supervision of Dr.Teodoro Laino in the AI for Scientific Discovery Team. I aim to provide a digital tool "OchemR", check the open-sourced demo-version at my repositories.
+- 🌱 In my most recent project, as a ML Scientist I learnt the in-depth concepts of Vision Transformers in Deep Learning with IBM Research under the supervision of Dr.Teodoro Laino in the AI for Scientific Discovery Team. I developed the digital tool "OchemR", check it's usability out at https://rxn.res.ibm.com and a demo of an early-staged code in my github.
       
 - 💞️ I am looking to collaborate in enthusastic projects concerning Computer Vision and NLP. 
 
